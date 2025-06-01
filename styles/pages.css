@@ -2,7 +2,7 @@
     max-width: 1120px;
     margin-inline: auto;
     
-header{   
+    header{   
     img{
         border-radius: 2.8rem;
         margin-bottom: 2.4reem;
@@ -19,19 +19,19 @@ header{
 
 }
 
-.divider{
+    .divider{
     height: 1px;
     background: var(--border-primary);
     margin-block: 4rem;
 }
 
-.amantes-historia{
+    .amantes-historia{
     margin-bottom: 6.4rem;
 }
 
-.destino_1,
-.destino_2,
-.destino_3{
+    .destino_1,
+    .destino_2,
+    .destino_3{
     imag{
         height: 35rem;
         object-fit: cover;
@@ -47,9 +47,15 @@ header{
     p{
         margin-bottom: 2.4rem;
     }
+}
+    .destino-1,
+    .destino_2{
+    margin-bottom: 4.8rem;
 
-
-
+    li{
+        color: var(--accent-blue);
+        
+    }
 }
 
 
