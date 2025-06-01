@@ -5,7 +5,17 @@
 header{   
     img{
         border-radius: 2.8rem;
-    };      
+        margin-bottom: 2.4reem;
+        height: 66rem;
+    }
+
+    p{
+        font-style: italic;
+        text-align: center;
+
+
+    }
+
 
 }
 
